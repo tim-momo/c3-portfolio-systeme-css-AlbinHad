@@ -1,0 +1,47 @@
+/**
+ * SYSTÈME DE DESIGN - PORTFOLIO
+ * 
+ * Conventions :
+ * - Nomenclature : BEM (Block__Element--Modifier)
+ * - Variables : Toutes les valeurs réutilisables
+ * - Documentation : Chaque composant documenté
+*/
+
+
+/* ========================================
+   VARIABLES
+   ======================================== */
+:root {
+
+    /* 
+    Ces 4 groupes de type de variables CSS ne sont là à titre d'exemple, vous pouvez en créer des différents selon votre projet. Ça vous donnes une idée de structure à suivre.
+    */
+
+    /* Couleurs */
+
+    /* Espacements */
+
+    /* Typographie */
+
+    /* Rayons (border radius) */
+
+}
+
+/* 
+Ces 3 composants ne sont là à titre d'exemple, vous pouvez en créer des différents selon votre projet. Ça vous donnes une idée de structure à suivre.
+*/
+
+/* ========================================
+   COMPOSANT : HEADER
+   ======================================== */
+
+
+/* ========================================
+   COMPOSANT : PROJECT CARD
+   ======================================== */
+
+
+/* ========================================
+   COMPOSANT : BUTTON
+   ======================================== */
+
